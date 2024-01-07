@@ -4,7 +4,7 @@ This project aims to develop a robust and efficient system for automatically rec
 
 
 
-# License Plate Detection: 
+### License Plate Detection: 
 The system can detect and locate license plates within images or video frames.
 # Character Segmentation:
 After plate detection, the system segments individual characters on the license plate for accurate recognition.
