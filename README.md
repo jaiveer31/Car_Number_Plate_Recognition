@@ -12,7 +12,7 @@ After plate detection, the system segments individual characters on the license 
 Utilizing deep learning models, the system recognizes the alphanumeric characters on the license plate.
 
 
-#### How to use
+### How to use
 1. Launch the application by running main.py.
 2. Input images or video streams containing vehicles with visible license plates.
 3. View the real-time license plate detection and recognition results.
